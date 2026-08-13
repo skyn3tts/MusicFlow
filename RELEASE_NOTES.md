@@ -1,4 +1,4 @@
-# MusicFlow 0.1.0
+# MusicFlow 0.1.1
 
 MusicFlow is a native 64-bit Windows music-library player focused on local files, classic Cover Flow, and a compact neutral Liquid Glass interface.
 
